@@ -4,9 +4,9 @@ public class ProgramaExemplo {
 
 	public static void main(String[] args) {
 		
-		String nome = "Vinicius";
-		
-		System.out.println("Seu nome é: " + nome);
+		// Inteiros
+		byte nr1 = 127;
+		short nr2 = 32767;
 
 	}
 
